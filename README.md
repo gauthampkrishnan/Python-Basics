@@ -13,8 +13,11 @@
          * Break
          * Pass
 ### Python Functions.ipynb
-## Defining and using python Functions
+##  Defining and using python Functions
 ### This Jupyter Notebook tell us how to define basic functions in python.
+### Python Strings.ipynb
+##  Defining and usage of Python Strings.
+### This Jupyter Notebook gives more info in usage of python strings.
          
          
          
