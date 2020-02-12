@@ -6,7 +6,7 @@
           * User Input:input()
           * Operators:+,-.*,/
           * Logical Operator: NOT, AND, OR
-## The Break, Continue and Pass notebook gives more information regarding the python statements such Break, Continue and Pass python Keywords.
+## The Break, Continue and Pass statement notebook gives more information regarding the python statements such Break, Continue and Pass python Keywords.
          * Continue
          * Break
          * Pass
